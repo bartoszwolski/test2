@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iosVersion</key>
+	<string>0.0.1</string>
+	<key>iosVersionCode</key>
+    <string>0.0.1</string>
+    <key>androidVersion</key>
+    <string>0.0.1</string>
+    <key>androidVersionCode</key>
+    <string>1</string>
+    <key>amazonVersion</key>
+    <string>0.0.1</string>
+    <key>amazonVersionCode</key>
+    <string>1</string>
+    <key>androidPackage</key>
+    <string>pl.cluain.jellyBlitz</string>
+    <key>androidAppname</key>
+    <string>Jelly Blitz</string>
+    <key>amazonPackage</key>
+    <string>pl.cluain.jellyBlitz</string>
+    <key>amazonAppname</key>
+    <string>Jelly Blitz</string>
+    <key>androidKeystorePath</key>
+	<string>/Users/user/release.keystore</string>
+	<key>androidKeystoreAlias</key>
+    <string>release-alias</string>
+    <key>androidKeystorePassword</key>
+    <string>pass123</string>
+	<key>androidKeystoreAliasPassword</key>
+    <string>pass123</string>
+    <key>homeDirectory</key>
+    <string>/Users/user</string>
+    <key>iosSDK</key>
+    <string>iphoneos6.1</string>
+    <key>iosDeveloperName</key>
+    <string>iPhone Developer: John Doe (A12BCD34EE)</string>
+    <key>iosProvisioningFile</key>
+    <string>123123-123123-123-123123</string>
+    <key>iosCodesignIdentity</key>
+    <string>iPhone Distribution: Acme</string>
+    <key>iosBundleIdentifier</key>
+    <string>com.mycompany.App</string>
+    <key>iosBundleName</key>
+    <string>AppName</string>
+    <key>iosBundleDisplayName</key>
+    <string>App Name</string>
+    <key>facebookAppId</key>
+    <string>12345</string>
+    <key>facebookDisplayName</key>
+    <string>Display Name</string>
+    <key>facebookObjectId</key>
+    <string>123456</string>
+    <key>heyzapKeyIos</key>
+    <string>123</string>
+    <key>heyzapKeyAndroid</key>
+    <string>1234</string>
+    <key>applovinKey</key>
+    <string>12345</string>
+    <key>pinsightKey</key>
+    <string>123456</string>
+    <key>adcolonyKeyAndroid</key>
+    <string>1234567</string>
+    <key>adcolonyV4VCKeyAndroid</key>
+    <string>12345678</string>
+    <key>adcolonyZoneKeysAndroid</key>
+    <string>{'123456789'}</string>
+    <key>adcolonyKeyIos</key>
+    <string>1234567</string>
+    <key>adcolonyV4VCKeyIos</key>
+    <string>12345678</string>
+    <key>adcolonyZoneKeysIos</key>
+    <string>{'123456789'}</string>
+    <key>adcolonyKeyAmazon</key>
+    <string>1234567</string>
+    <key>adcolonyV4VCKeyAmazon</key>
+    <string>12345678</string>
+    <key>adcolonyZoneKeysAmazon</key>
+    <string>{'123456789'}</string>
+    <key>impactKeyIos</key>
+    <string>123456789</string>
+    <key>impactKeyAndroid</key>
+    <string>123456789</string>
+    <key>appIdIos</key>
+    <string>123456789</string>
+    <key>cpsAppIdIos</key>
+    <string>12345</string>
+    <key>cpsAppIdAndroid</key>
+    <string>12345</string>
+    <key>cpsAppIdAmazon</key>
+    <string>12345</string>
+    <key>cpsKey</key>
+    <string>12345</string>
+    <key>ltsUrl</key>
+    <string>http://cps-cluain.rhcloud.com/</string>
+    <key>ltsGameId</key>
+    <string>767b0e24b1443f01673f370c9c98441b</string>
+    <key>gameanalyticsKey</key>
+    <string>12345</string>
+    <key>gameanalyticsSecretKey</key>
+    <string>12345</string>
+    <key>googlePlayAppKey</key>
+    <string>RSA PUBLIC KEY</string>
+    <key>gameServerUrl</key>
+    <string>https://gameserver-domain.rhcloud.com/</string>
+    <key>developmentMode</key>
+    <string>false</string>
+    <key>debugLogging</key>
+    <string>false</string>
+    <key>debugInfo</key>
+    <string>true</string>
+    <key>expansionBuild</key>
+    <string>false</string>
+    <key>amazonAdsAppKey</key>
+    <string>1234</string>
+    <key>googlePlayAppId</key>
+    <string>1234</string>
+</dict>
+</plist>
